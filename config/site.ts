@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Naman Barkiya - Applied AI Engineer",
-  authorName: "Naman Barkiya",
-  username: "namanbarkiya",
+  name: "Chundru Himaja Sri - Portfolio",
+  authorName: "Chundru Himaja Sri",
+  username: "chundruhimajasri",
   description:
-    "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
-  url: "https://nbarkiya.xyz",
+  "BBA Digital Technologies student at Mahindra University exploring product management, business and data analytics.",
+  url: "https://portfolio-git-master-himajasri86-3575s-projects.vercel.app",
   links: {
     twitter: "https://x.com/namanbarkiya",
     github: "https://github.com/namanbarkiya",
