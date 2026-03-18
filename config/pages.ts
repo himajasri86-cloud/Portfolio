@@ -50,11 +50,11 @@ export const pagesConfig: PagesConfig = {
     title: "Contributions",
     description: "Himaja Sri's contributions and involvement.",
     metadata: {
-      title: "Contributions",
-      description:
-        "Himaja Sri's contributions and involvement.",
+  title: "Contributions",
+  description: "Himaja Sri's contributions and involvement.",
+},
     },
-  },
+  
   resume: {
     title: "Resume",
     description: "Himaja Sri resume.",
@@ -63,22 +63,20 @@ export const pagesConfig: PagesConfig = {
       description: "Himaja Sri resume.",
     },
   },
-  blogs: {
-  title: "Recommendations",
-  description: "Professional feedback and endorsements.",
-  metadata: {
+    blogs: {
     title: "Recommendations",
-    description: "Professional recommendations for Himaja Sri.",
-  },
-}
+    description: "Professional feedback and endorsements.",
+    metadata: {
+      title: "Recommendations",
+      description: "Professional recommendations for Himaja Sri.",
+    },
   },
   experience: {
     title: "Experience",
     description: "Professional journey and career timeline.",
     metadata: {
       title: "Experience",
-      description:
-        "Himaja Sri professional journey and experience timeline.",
+      description: "Himaja Sri's professional journey and experience timeline.",
     },
   },
 };
