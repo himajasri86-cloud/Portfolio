@@ -43,35 +43,34 @@ export const pagesConfig: PagesConfig = {
     description: "Let's connect and explore collaborations.",
     metadata: {
       title: "Contact",
-      description: "Contact Naman Barkiya.",
+      description: "Contact Himaja Sri.",
     },
   },
   contributions: {
     title: "Contributions",
-    description: "Open-source contributions and community involvement.",
+    description: "Himaja Sri's contributions and involvement.",
     metadata: {
       title: "Contributions",
       description:
-        "Naman Barkiya's open-source contributions and community involvement.",
+        "Himaja Sri's contributions and involvement.",
     },
   },
   resume: {
     title: "Resume",
-    description: "Naman Barkiya's resume.",
+    description: "Himaja Sri resume.",
     metadata: {
       title: "Resume",
-      description: "Naman Barkiya's resume.",
+      description: "Himaja Sri resume.",
     },
   },
   blogs: {
-    title: "Blogs",
-    description:
-      "Thoughts on AI, software engineering, and building in public.",
-    metadata: {
-      title: "Blogs",
-      description:
-        "Naman Barkiya's blog — thoughts on AI, software engineering, and building in public.",
-    },
+  title: "Recommendations",
+  description: "Professional feedback and endorsements.",
+  metadata: {
+    title: "Recommendations",
+    description: "Professional recommendations for Himaja Sri.",
+  },
+}
   },
   experience: {
     title: "Experience",
@@ -79,7 +78,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Experience",
       description:
-        "Naman Barkiya's professional journey and experience timeline.",
+        "Himaja Sri professional journey and experience timeline.",
     },
   },
 };
